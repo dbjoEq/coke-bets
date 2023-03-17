@@ -5,3 +5,9 @@
     height: 100vh;
     flex-direction: column;
 }
+
+.h1Header{
+    background-color: red;
+    padding: 20px;
+    border-radius: 20px 1px 20px 1px;
+}
