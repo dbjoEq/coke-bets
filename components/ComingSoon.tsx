@@ -1,4 +1,4 @@
-import styles from "@/styles/comingSoon.module.css";
+import styles from "@/styles/ComingSoon.module.css";
 
 const ComingSoon = () => {
     return (
